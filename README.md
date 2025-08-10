@@ -5,7 +5,7 @@ Custom DNS query sender designed for flexibility and speed — perfect for secur
 ##Installation
 
 ``bash
-git clone https://github.com/username/dns_query_sender.git
+git clone https://github.com/hami532/dns_query_sender.git
 How to use:
 cd dns_query_sender
 sudo python3 query.py <DNS-server-IP> <domain>
